@@ -1,0 +1,167 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: ;
+  
+  
+}
+li {
+  inline-block: flex;
+  float: right;
+  color: white;
+  position: top,100%;
+}
+li, a, button {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: px;
+  color: white;
+  text-decoration: none;
+}
+section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  
+}
+.label {
+  cursur: pointer;
+  align: center;
+  
+}
+.nav__links {
+  list-style: none;
+}
+.nav__links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.
+}
+button {
+  padding: 9px 25px;
+  background-color: skyblue;
+  border: none;
+  cursur: pointer;
+  transition: all 0.3s ea;se 0s;
+  inline-block: flex;
+  position: top fixed;
+  top: fixed;
+  
+  
+}
+
+nav {
+  background-color: r;
+  float: right;
+  color: white;
+  position: top;
+  height: 100px;
+  
+}
+ b {
+  text-align: center;
+}
+h1 {
+  background-color: navy;
+}
+input {
+  color: black;
+  background-color: white;
+  width: 300px;
+  height: 27px;
+  
+}
+body {
+  background-color: navy;
+}
+a {
+  color: white;
+}
+h1 {
+  color: white;
+  text-align: left;
+  font-size: 30px;
+}
+footer {
+  background-color: darkgray;
+}
+hr {
+  width: 400px;
+  float: left;
+  
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+img {
+  width: 100px;
+  height: 100px;
+  inline-block: flex;
+  font-family: "monserrat" sans-serif;
+  font-weight: 500;
+  display: grid;
+  grid-template-columns: columns;
+  .parent-container
+  
+  
+  
+  
+}
+
+}
+p {
+  color: white;
+}
+figcaption{
+  color: white;
+  
+}
+ .movie {
+   margin: 5px;
+   border: 1px solid #ccc;
+   float: left;
+   width: 390px;
+ }
+ .movie img {
+   width: 89%;
+   height: auto;
+   align-items: center;
+ }
+ .desc {
+   padding: 15px;
+   text-align: center;
+ }
+.parent-container {
+     Display: grid;
+     grid-template-columns: columns;
+     align-items: center;
+   
+ }
+ .adm img {
+   width: 99%;
+   height: auto;
+   align-items: center;
+ }
+ p {
+   color: white;
+   font-weight: bold;
+ }
+ .p mdesc {
+   text-align: center;
+ }
+ form {
+   background-color: skyblue;
+   font-size: 29px;
+   text-align: center;
+   width: 200px;
+   height: 40px;
+   
+   
+ }
+
+
+
