@@ -16,10 +16,14 @@
     <a href="MOVIE.html"><button>Movies</button></a>
    <a href="SERIES.html"><button>Series</button></a>
    <a href="ABOUTUS.html"><button>AboutUs</button></a><br>
-   <input type="search" placeholder="search movie..">
-   <button class ="btn">
-      Search
-</button>
+   <input type="search" id="btn" placeholder="search movie..">
+   <button onclick="getValue()">Search</button> 
+   <script>
+     function getValue() {
+       console.log(document.getElementById ('btn').value);
+     }
+   </script>
+   
    <hr>
    <h1>Latest Movies</h1>
    
